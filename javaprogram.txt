@@ -1,0 +1,17 @@
+class A
+{
+public static void main(String args[])
+{
+String S="EswarReddy";
+length=S.length;
+for(int i=0;i<=length;i++)
+{
+for(int j=i+1;j<=length;j++)
+{
+if(ch[i]==ch[j])
+{
+system.out.println("duplicate values in string are"+ch[j])
+}
+}
+}
+}
